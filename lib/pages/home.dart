@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:np_admin_panel/main.dart';
+import 'package:np_admin_panel/routes/routeName.dart';
 
 class HomePage extends StatelessWidget {
   @override
